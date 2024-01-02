@@ -13,4 +13,17 @@
     .setting .settingUl{
         grid-template-columns: repeat(1,1fr);
     }
+    .welcome .welcomeAbout{
+        margin-top: 60px;
+    }
+    .contact .contactImg{
+        width: 50vw;
+    }
+    .contact .contactTxtBox svg {
+        width: 70vw;
+    }
+    .about .aboutTxt {
+        font-size: 16px;
+    }
+
 }
