@@ -1,0 +1,16 @@
+@media (max-width:767px){
+    .windowBar .windowBar_list{display: none;}
+    .explorer{display: none;}
+    .Projects .projects_Lists{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .banner .bannerLists{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .popup .popupContent{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .setting .settingUl{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
